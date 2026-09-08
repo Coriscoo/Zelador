@@ -1,2 +1,4 @@
 # Zelador
-Ferramenta para Varredura de Rede (Apenas para fins Educacionais) 
+Ferramenta para Varredura de Rede (Apenas para fins Educacionais)
+
+Versão Teste
