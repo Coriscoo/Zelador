@@ -71,8 +71,7 @@ print("\n███████╗███████╗██╗      ██�
       "╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝")
 
 if __name__ == "__main__":
-    args = sys.argv[1:]  # ignora o nome do script (sys.argv[0])
-
+    args = sys.argv[1:]
     if len(args) == 0 or args[0] in ("-h", "--help"):
         mostrar_ajuda()
 
